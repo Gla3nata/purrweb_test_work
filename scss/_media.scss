@@ -118,7 +118,7 @@
     grid-template-rows: 3fr;
 } 
 .feedback{
-    padding: 40px 36px 40px 28px;
+    padding: 40px 0;
 }  
 .footer__wrapper{
     grid-template-columns: 299px;
@@ -135,7 +135,7 @@
             z-index: 5;
             display: block;
             position: relative;
-            width: 22px;
+            width: 24px;
             height: 32px;
         }
         &__icon span,
@@ -249,7 +249,7 @@
             line-height: 40px;
         }
         &__text{
-            width: 319px;
+            width: 284px;
             line-height: 20px;
             margin-bottom: 28px;
         }
